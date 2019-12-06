@@ -1,24 +1,26 @@
-# vue_mall
+<p align="center">
+    <img src='https://profile.csdnimg.cn/7/F/4/2_h1234561234561' alt="logo" width='120' height='120' style='border-radius: 50%'>
+</p>
 
-## Project setup
-```
-yarn install
-```
+# 商城项目
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 编写人
+- 燃情雪
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 博客地址
+- [CSDN博客](https://blog.csdn.net/h1234561234561)
 
-### Lints and fixes files
+## 相关部署
+- 安装依赖
 ```
-yarn lint
+npm/cnpm install
+yarn add
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 运行项目
+```
+npm/cnpm run dev
+yarn run dev
+```
+
+
