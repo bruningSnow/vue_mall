@@ -1,11 +1,13 @@
 <template>
-  <section>
-    <div>123</div>
-  </section>
+<div>
+  <router-view> </router-view>
+</div>
 </template>
 
 <script>
 export default {
-  data() {}
+  data() {
+    return {}
+  }
 }
 </script>
